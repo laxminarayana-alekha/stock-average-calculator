@@ -1,2 +1,2 @@
 # average-stock-price-calucaltor
-Simple webpage to calculat eaverage stock price
+Simple webpage to calculate average stock price
